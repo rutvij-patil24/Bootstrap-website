@@ -1,10 +1,16 @@
-.myrows{
-    border: 3px solid green;
-    padding: 5px;
+#topHeader{
+    border-bottom: 1px solid #ebebeb;
 }
-.mycols{
-    border: 3px solid red;
+#topHeader a{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 0.89 rem;
 }
-.mycontainer{
-    background-color: aqua;
+.container-fluid{
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.navbar{
+    padding-left: 2%;
+    padding-right: 2%;
 }
