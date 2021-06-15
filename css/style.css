@@ -41,4 +41,15 @@ nav ul li a{
 .bottom-footer p{
     color: white;
 }
-/* END : Header */
+/* END : Footer */
+
+/* START : Home Page Top Hero Section */
+.top-hero-section{
+    background-color: #3498db;
+    color: white;
+}
+.top-hero-section a{
+    color: white;
+    font-weight: 600;
+}
+/* END : Home Page Top Hero Section */
