@@ -99,3 +99,22 @@ nav ul li a{
     height: 200px;
 }
 /* END : Home Page Clients Section */
+
+/* ---------------- END of Home Page ---------------- */
+
+/* ---------------- START of About Page ---------------- */
+
+/* START : About US Breadcrumbs Section */
+.breadcrumbs-section{
+    background-color: #e9ecef;
+}
+.breadcrumbs-section a{
+    text-decoration: none;
+}
+/* END : About US Breadcrumbs Section */
+
+/* START : About US Our Team Section */
+.name-italic p{
+    font-style: italic;
+}
+/* END : About US Our Team Section */
