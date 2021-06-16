@@ -131,3 +131,17 @@ nav ul li a{
 }
 
 /* ---------------- END of Portfolio Page ---------------- */
+
+/* ---------------- START of Contact US Page ---------------- */
+
+.info p{
+    font-weight: 600;
+}
+
+.my-info{
+    font-weight: 600;
+}
+.my-info a{
+    text-decoration: none;
+}
+/* ---------------- END of Contact US Page ---------------- */
