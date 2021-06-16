@@ -118,3 +118,16 @@ nav ul li a{
     font-style: italic;
 }
 /* END : About US Our Team Section */
+
+/* ---------------- END of About Page ---------------- */
+
+/* ---------------- START of Portfolio Page ---------------- */
+
+.main-portfolio #heavy{
+    font-weight: 600;
+}
+.main-portfolio .col-md-4 p{
+    font-style: italic;
+}
+
+/* ---------------- END of Portfolio Page ---------------- */
