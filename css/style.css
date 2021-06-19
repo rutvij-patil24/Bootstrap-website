@@ -1,3 +1,5 @@
+/* ---------------- START of Home Page ---------------- */
+
 /* START : Header */
 #topHeader{
     border-bottom: 1px solid #ebebeb;
@@ -19,6 +21,8 @@ nav ul li a{
     font-size: 1.1rem;
     font-weight: 600;
 }
+/* To make hoverable dropdown */
+.dropdown:hover .dropdown-menu {display: block;}
 /* END : Header */
 
 /* START : Footer */
@@ -145,3 +149,15 @@ nav ul li a{
     text-decoration: none;
 }
 /* ---------------- END of Contact US Page ---------------- */
+
+/* ---------------- START of Services Page ---------------- */
+.main-services{
+    text-align: justify;
+    text-justify: auto;
+}
+.bar{
+    border-radius: 20px; 
+    font-weight: 600;
+}
+
+/* ---------------- END of Services Page ---------------- */
